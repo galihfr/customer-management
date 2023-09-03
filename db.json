@@ -1,0 +1,25 @@
+{
+  "contactData": [
+    {
+      "firstName": "Dadang",
+      "lastName": "Konelo",
+      "age": "17",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Japri",
+      "lastName": "Sasongko",
+      "age": "47",
+      "photo": "../assets/images/avatar.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "name": "Super Admin"
+    }
+  ]
+}
